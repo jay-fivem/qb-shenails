@@ -10,5 +10,9 @@ Credits:
 
 Items
 ```
-not finished yet
+["blacknails"]                 = {["name"] = "blacknails",                        ["label"] = "Black Nails",     ["weight"] = 100,         ["type"] = "item",         ["image"] = "blacknails.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Black Nails"},
+["pinknails"]                 = {["name"] = "pinknails",                        ["label"] = "Pink Nails",     ["weight"] = 100,         ["type"] = "item",         ["image"] = "blacknails.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Pink Nails"},
+["bluenails"]                 = {["name"] = "bluenails",                        ["label"] = "Blue Nails",     ["weight"] = 100,         ["type"] = "item",         ["image"] = "blacknails.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Blue Nails"},
+["rednails"]                 = {["name"] = "rednails",                        ["label"] = "Red Nails",     ["weight"] = 100,         ["type"] = "item",         ["image"] = "blacknails.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Red Nails"},
+["mixednails"]                 = {["name"] = "mixednails",                        ["label"] = "Mixed Nails",     ["weight"] = 100,         ["type"] = "item",         ["image"] = "blacknails.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Mixed Nails"},
 ```
