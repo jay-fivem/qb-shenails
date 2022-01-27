@@ -1,5 +1,4 @@
 Config = {}
-Config.Clothing = 'qb-clothing' -- Other option is aj-fivem-appearance
 Config.ShopItems = {
     [1] = {
         name = "blacknails",
